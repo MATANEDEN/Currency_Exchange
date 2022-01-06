@@ -1,0 +1,20 @@
+This file need to be .env file
+
+
+DB connection
+DB = "fastapi"
+PASSWORD = "12345678"
+USER = "postgres"
+PORT = "5432"
+
+#API Access Key
+api_access_key  = "f092bd4076ec559ad8936821c0cd6154"
+#API PARAMS
+Date = "2021-11-30"
+Currencies = "USD,EUR,ILS,GBP"
+Format = "1"
+API_URL = "http://apilayer.net/api/historical"
+
+#csv to database
+CSV_PATH = "Dat.csv"
+TABLE_NAME = "csv_table"
